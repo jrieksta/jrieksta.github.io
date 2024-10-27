@@ -19,8 +19,8 @@ defaults:
         sticky: true
 
 author:
-  name: "John Doe"
-  avatar: "/assets/me.jpeg"
+  name: "Jolanta Rieksta"
+  avatar: "/assets/jolanta.jpeg"
   bio: "John is a software developer passionate about open source projects."
   location: "New York, USA"
   email: "john.doe@email.com"
