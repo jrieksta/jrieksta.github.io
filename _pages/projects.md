@@ -1,12 +1,12 @@
 ---
 layout: single
 title: "Welcome to My Website"
-permalink: /about/
+permalink: /projects/
 classes:
   - landing
   - dark-theme
 ---
 
-# About Me
+# Projects
 
-This is my about page.
+This is teh projects page
