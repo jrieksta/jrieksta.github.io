@@ -1,0 +1,36 @@
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "default"
+include: ["_pages"]
+plugins:
+  - jekyll-include-cache
+subtitle: "Version 2.0"
+name: "Michael Rose"
+description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      sidebar:
+        nav: "docs"
+        sticky: true
+
+author:
+  name: "John Doe"
+  avatar: "/assets/me.jpeg"
+  bio: "John is a software developer passionate about open source projects."
+  location: "New York, USA"
+  email: "john.doe@email.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:john.doe@email.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/johndoe"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/johndoe"
