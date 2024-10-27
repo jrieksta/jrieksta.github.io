@@ -22,3 +22,6 @@ gallery:
 This is teh projects page
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
+
+**Watch out!** This paragraph of text has been emphasized with the {: .notice--info} class.
+{: .notice--info}
