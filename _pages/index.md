@@ -16,6 +16,5 @@ header:
       url: "/about/"
 ---
 
-# Welcome to My Website
 
-This is the main page of my website.
+## I am a biologist with keen interest in understanding how ecosystems function and respond to various stressors at high altitude and latitude ecosystems, and how climate change affect these responses. More specifically, how changes in climate and biotic stresses affect plant chemistry and genetics, and functional traits, and what implications these changes might have on ecosystem functioning. I have conducted extensive field campaigns in Greenland, Norway, Sweden, and United States. I am also interested in bioinformatics, programming, and application of data science tools in biology.
