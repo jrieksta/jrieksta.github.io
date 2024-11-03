@@ -20,10 +20,11 @@ defaults:
 
 author:
   name: "Jolanta Rieksta"
-  avatar: "/assets/jolanta.jpeg"
-  bio: "John is a software developer passionate about open source projects."
-  location: "New York, USA"
-  email: "john.doe@email.com"
+  avatar: "/assets/images/pic1.jpeg"
+  bio: "I am biologist investigating how plants function and respond to various stressors at high altitude and latitude ecosystems."
+  location: "Copenhagen, Denmark"
+  location: "Trondheim, Norway"
+  email: "jolanta.rieksta@bio.ku.dk"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -33,4 +34,4 @@ author:
       url: "https://github.com/johndoe"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/johndoe"
+      url: "https://x.com/JRieksta"
