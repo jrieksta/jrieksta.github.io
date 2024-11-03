@@ -28,3 +28,5 @@ This is teh projects page
 
 **Watch out!** This paragraph of text has been emphasized with the {: .notice--info} class.
 {: .notice--info}
+
+[About page yooooooo](/about/)
