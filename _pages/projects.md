@@ -31,4 +31,10 @@ This is teh projects page
 **Watch out!** This paragraph of text has been emphasized with the {: .notice--info} class.
 {: .notice--info}
 
-[About page yooooooo](/about/)
+[Project1](/projects/project1)
+
+[Project2](/projects/project2)
+
+[Project3](/projects/project3)
+
+[Project4](/projects/project4)
