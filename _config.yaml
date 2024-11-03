@@ -19,7 +19,7 @@ defaults:
         sticky: true
 
 author:
-  name: "Your Name"
+  name: "Jolanta"
   avatar: "/assets/pic1.jpg"
   bio: "I am biologist investigating how plants function and respond to various stressors at high altitude and latitude ecosystems."
   location: "Copenhagen, Denmark"
