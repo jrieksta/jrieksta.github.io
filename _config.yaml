@@ -35,3 +35,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/JRieksta"
+   - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:john.doe@email.com"
