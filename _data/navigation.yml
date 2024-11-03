@@ -12,10 +12,10 @@ docs:
   - title: Projects
     children:
       - title: "indiVOCtual"
-        url: /projects/project1
+        url: /projects/indiVOCtual
       - title: "HIPV"
-        url: /projects/project2
+        url: /projects/HIPV
       - title: "Climate change and BVOCs"
-        url: /projects/project3
+        url: /projects/Climate-and-BVOCs
       - title: "Functional traits"
-        url: /projects/project4
+        url: /projects/Functional-traits

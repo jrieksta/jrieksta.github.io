@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Functional traits"
-permalink: /projects/project4
+permalink: /projects/Functional-traits
 classes:
   - landing
   - dark-theme

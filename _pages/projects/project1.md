@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "indiVOCtual"
-permalink: /projects/project1
+permalink: /projects/indiVOCtual
 classes:
   - landing
   - dark-theme

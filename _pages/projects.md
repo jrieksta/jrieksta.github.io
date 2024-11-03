@@ -31,10 +31,10 @@ This is teh projects page
 **Watch out!** This paragraph of text has been emphasized with the {: .notice--info} class.
 {: .notice--info}
 
-[Project1](/projects/project1)
+[indiVOCtual](/projects/indiVOCtual)
 
-[Project2](/projects/project2)
+[HIPV](/projects/HIPV)
 
-[Project3](/projects/project3)
+[Climate change and BVOCs](/projects/Climate-and-BVOCs)
 
-[Project4](/projects/project4)
+[Functional traits](/projects/Functional-traits)

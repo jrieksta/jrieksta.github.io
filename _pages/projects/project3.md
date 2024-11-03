@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Climate change and BVOCs"
-permalink: /projects/project3
+permalink: /projects/Climate-and-BVOCs
 classes:
   - landing
   - dark-theme

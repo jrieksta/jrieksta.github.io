@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "HIPV"
-permalink: /projects/project2
+permalink: /projects/HIPV
 classes:
   - landing
   - dark-theme
