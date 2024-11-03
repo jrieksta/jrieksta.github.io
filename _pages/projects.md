@@ -18,6 +18,8 @@ gallery:
     image_path: /assets/images/unsplash-gallery-image-3.jpg
     alt: "placeholder image 3"
     title: "Image 3 title caption"
+sidebar:
+  nav: "docs"
 ---
 
 # Projects
