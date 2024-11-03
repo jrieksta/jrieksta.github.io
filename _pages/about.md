@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Welcome to My Website"
-permalink: /about/
+permalink: /about
 classes:
   - landing
   - dark-theme
