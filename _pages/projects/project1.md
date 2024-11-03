@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to My Website"
+title: "indiVOCtual- within species variation sources of BVOCs"
 permalink: /projects/project1
 classes:
   - landing

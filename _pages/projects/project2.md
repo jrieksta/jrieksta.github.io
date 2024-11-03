@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Project2"
+title: "Herbivore induced volatile emissions in birch forest"
 permalink: /projects/project2
 classes:
   - landing
