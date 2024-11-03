@@ -23,19 +23,20 @@ author:
   avatar: "/assets/pic1.jpg"
   bio: "I am biologist investigating how plants function and respond to various stressors at
    high altitude and latitude ecosystems."
-  location: "Copenhagen, Denmark;
-   Trondheim, Norway"
+  location: "Copenhagen, Denmark"
   email: "jolanta.rieksta@bio.ku.dk"
   links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "jolanta.rieskta@bio.ku.dk"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/jrieksta"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/JRieksta"
     - label: "University of Copenhagen"
       icon: "fas fa-fw fa-university"
       url: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/620322"
+    - label: "Email: jolanta.rieksta@bio.ku.dk"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "jolanta.rieskta@bio.ku.dk"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/JRieksta"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/jrieksta"
+
+
