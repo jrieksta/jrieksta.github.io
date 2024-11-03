@@ -24,12 +24,11 @@ author:
   bio: "I am biologist investigating how plants function and respond to various stressors at
    high altitude and latitude ecosystems."
   location: "Copenhagen, Denmark"
-  email: "jolanta.rieksta@bio.ku.dk"
   links:
     - label: "University of Copenhagen"
       icon: "fas fa-fw fa-university"
       url: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/620322"
-    - label: "Email: jolanta.rieksta@bio.ku.dk"
+    - label: "jolanta.rieksta@bio.ku.dk"
       icon: "fas fa-fw fa-envelope-square"
       url: "jolanta.rieskta@bio.ku.dk"
     - label: "Twitter"
