@@ -20,7 +20,7 @@ defaults:
 
 author:
   name: "Jolanta Rieksta"
-  avatar: "/assets/images/pic1.jpeg"
+  avatar: "/assets/images/pic1.jpg"
   bio: "I am biologist investigating how plants function and respond to various stressors at high altitude and latitude ecosystems."
   location: "Copenhagen, Denmark"
   location: "Trondheim, Norway"
@@ -28,13 +28,13 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:john.doe@email.com"
+      url: "jolanta.rieskta@ku.dk"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/johndoe"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/JRieksta"
-   - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:john.doe@email.com"
+   - label: "Univeristy profile"
+      icon: "fas fa-fw fa-university"
+      url: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/620322"
