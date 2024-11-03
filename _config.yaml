@@ -35,6 +35,6 @@ author:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://x.com/JRieksta"
-   - label: "Univeristy profile"
+   -  label: "Univeristy profile"
       icon: "fas fa-fw fa-university"
       url: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/620322"
