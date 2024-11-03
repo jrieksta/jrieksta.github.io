@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Plant funcitonal traits across aspen genotypes"
+title: "Functional traits"
 permalink: /projects/project4
 classes:
   - landing

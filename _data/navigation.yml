@@ -11,11 +11,11 @@ main:
 docs:
   - title: Projects
     children:
-      - title: "indiVOCtual- within species variation sources of BVOCs"
+      - title: "indiVOCtual"
         url: /projects/project1
-      - title: "Herbivore induced volatile emissions in birch forest"
+      - title: "HIPV"
         url: /projects/project2
-      - title: "Combined effects of insect herbivory and changing climate on volatile emissions"
+      - title: "Climate change and BVOCs"
         url: /projects/project3
-      - title: "Plant funcitonal traits across aspen genotypes"
+      - title: "Functional traits"
         url: /projects/project4

@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Combined effects of insect herbivory and changing climate on volatile emissions"
+title: "Climate change and BVOCs"
 permalink: /projects/project3
 classes:
   - landing
