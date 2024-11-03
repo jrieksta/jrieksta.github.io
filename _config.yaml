@@ -21,8 +21,10 @@ defaults:
 author:
   name: "Jolanta Rieksta"
   avatar: "/assets/pic1.jpg"
-  bio: "I am biologist investigating how plants function and respond to various stressors at high altitude and latitude ecosystems."
-  location: "Copenhagen, Denmark; Trondheim, Norway"
+  bio: "I am biologist investigating how plants function and respond to various stressors at
+   high altitude and latitude ecosystems."
+  location: "Copenhagen, Denmark;
+   Trondheim, Norway"
   email: "jolanta.rieksta@bio.ku.dk"
   links:
     - label: "Email"
