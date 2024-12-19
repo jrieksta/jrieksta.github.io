@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Welcome to My Website"
+title: "Publications"
 permalink: /publications
 classes:
   - landing
@@ -11,16 +11,16 @@ sidebar:
 
 
 
-# PEER-REVIEWED PUBLICATIONS (published and in preparation)
+### Peer-reviewed publications (published and in preparation)
 
-## 2024
+#### 2024
 
 - **Rieksta, J., Graae, B. J., Helsen, K., Kapás, R. E., Strimbeck, R., Blonder B.**  
   *Disintegration of the leaf economic spectrum within and across Quaking aspen (Populus tremuloides) genotypes* (in review)
 
 ---
 
-## 2023
+#### 2023
 
 - **Rieksta, J., Li T., Martin C.D., Høye T.T., Rinnan R.**  
   *Volatile responses to mimicked insect herbivory and experimental warming at two elevations in Greenlandic tundra.*  
@@ -32,7 +32,7 @@ sidebar:
 
 ---
 
-## 2021
+#### 2021
 
 - **Rieksta, J.**  
   *Effects of insect herbivory and changing climate on biogenic volatile organic compound emissions in the Arctic.*  
@@ -50,7 +50,7 @@ sidebar:
 
 ---
 
-## 2020
+#### 2020
 
 - **Rieksta J., Li T, Junker R.R, Jepsen J.U., Ryde I., Rinnan R.**  
   *Insect herbivory strongly modifies mountain birch volatile emissions.*  
@@ -66,3 +66,45 @@ sidebar:
   *Remote sensing of ploidy level in quaking aspen (Populus tremuloides Michx.).*  
   *Journal of Ecology,* 108(1), 175–188.  
   [https://doi.org/10.1111/1365-2745.13296](https://doi.org/10.1111/1365-2745.13296)
+
+
+
+### Presentations, posters, conferences
+
+#### 2024
+
+- Against Research Monoculture Symposium. Biodiversity across Arts, Sciences & Humanities (invited keynote)
+- VILLUM Fellow Symposium (*invited keynote*)
+- GRC 2024: Biosphere-Atmosphere Interactions and Impacts in the Anthropocene. **Rieksta J.**, Holst T., Martin C.D., **Rieksta J.**, Smart A.S., Rinnan R., Seco R. "VOC fluxes of a subarctic mountain birch forest" (*conference talk*)
+
+#### 2023
+
+- Spanish Terrestrial Ecology Association, Seco R., Holst T., Martin C.D., **Rieksta J.**, Smart A., Rinnan R., “Trace gas exchange by subarctic vegetation under global change” (*conference talk*)
+- 1st International Meeting on the Gas Phase in Plants, Rinnan R., **Rieksta J.**, Smart A., Engroff A., Martin C.D., Holst T., Li T., Seco R., “Mountain birch volatile emissions in response to insect herbivory” (*conference talk*)
+- OIKOS, Norway, **Rieksta J.**, Li T., Martin C.D., Aeppli L.C.B., Simin T., Høye T.T., Rasmussen M.A., Rinnan R., “Dwarf birch volatile emissions and plant functional traits in Greenlandic tundra” (*conference talk*)
+- EGU General Assembly, hybrid, **Rieksta J.**, Li T., Borchmann L. R., Rinnan R., “Quantitative relationships between insect herbivory severity and BVOC emissions in a Subarctic Mountain birch forest” (*conference talk*)
+
+#### 2022
+
+- University of Copenhagen BIO Conference, **Rieksta J.**, “Mountain birch forest volatile emissions in the Subarctic – impact of herbivory stress” (*conference talk*)
+
+#### 2021
+
+- British Ecological Society, online. **Rieksta J.**, Li T., Rinnan R. “Low-intensity insect herbivory strongly modifies volatile emissions of mountain birch” (*conference talk*)
+
+#### 2020
+
+- PhD Day 2020 online edition, “Joint effects of insect herbivory and long-term in situ warming on plant volatile emissions in a Subarctic tundra” (*conference talk*)
+
+## 2019
+
+- Plant, Cell & Environment 40th Anniversary Symposium, Glasgow, Scotland. **Rieksta J.**, Li T., Junker R.R., Rinnan R. “Insect herbivory – a hidden contributor to plant volatile emissions in the high latitudes” (*poster presentation*)
+
+## 2018
+
+- PhD Day, Copenhagen, Denmark. **Rieksta J.**, Rinnan R., Li T. "Effects of insect herbivory and warming on BVOC emissions in the Arctic" (*poster presentation*)
+- Nordic OIKOS Conference, Trondheim, Norway. **Rieksta J.**, Graae, B. J., Helsen, K., Kapás, R. E., Strimbeck, R., Blonder B. “Breakdown of leaf economic tradeoffs at fine scale in quaking aspen (Populus tremuloides) focal clones, Colorado” (*poster presentation*)
+
+## 2017
+
+- NTNU Sustainability Science Conference, Trondheim, Norway. Asante E.O., Yusra I., **Rieksta J.**, Nguyen T.V. "Designing a sustainable composting model to overcome peat-cutting" (*poster presentation*)
