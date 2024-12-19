@@ -96,16 +96,16 @@ sidebar:
 
 - PhD Day 2020 online edition, “Joint effects of insect herbivory and long-term in situ warming on plant volatile emissions in a Subarctic tundra” (*conference talk*)
 
-## 2019
+#### 2019
 
 - Plant, Cell & Environment 40th Anniversary Symposium, Glasgow, Scotland. **Rieksta J.**, Li T., Junker R.R., Rinnan R. “Insect herbivory – a hidden contributor to plant volatile emissions in the high latitudes” (*poster presentation*)
 
-## 2018
+#### 2018
 
 - PhD Day, Copenhagen, Denmark. **Rieksta J.**, Rinnan R., Li T. "Effects of insect herbivory and warming on BVOC emissions in the Arctic" (*poster presentation*)
 - Nordic OIKOS Conference, Trondheim, Norway. **Rieksta J.**, Graae, B. J., Helsen, K., Kapás, R. E., Strimbeck, R., Blonder B. “Breakdown of leaf economic tradeoffs at fine scale in quaking aspen (Populus tremuloides) focal clones, Colorado” (*poster presentation*)
 
-## 2017
+#### 2017
 
 - NTNU Sustainability Science Conference, Trondheim, Norway. Asante E.O., Yusra I., **Rieksta J.**, Nguyen T.V. "Designing a sustainable composting model to overcome peat-cutting" (*poster presentation*)
 
