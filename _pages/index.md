@@ -19,7 +19,7 @@ header:
 
 I am a biologist with keen interest in understanding how ecosystems function and respond to various stressors at high altitude and latitude ecosystems, and how climate change affect these responses. 
 
-More specifically, how changes in climate and biotic stresses affect plant chemistry, genetics, and functional traits, and what implications these changes might have on ecosystem functioning. 
+More specifically, how changes in climate and biotic stresses affect plant volatilomes, genetics, and functional traits, and what implications these changes might have on ecosystem functioning. 
 
 I have conducted extensive field campaigns in Greenland, Northern Fennoscandia, and Rocky Mountains. I am also interested in bioinformatics, programming, and application of data science tools in biology.
 
