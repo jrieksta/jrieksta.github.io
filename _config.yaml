@@ -31,7 +31,7 @@ author:
     - label: "jolanta.rieksta@bio.ku.dk"
       icon: "fas fa-fw fa-envelope-square"
       url: "jolanta.rieskta@bio.ku.dk"
-    - label: "Bluesky"
+    - label: "@jrieksta.bsky.social"
       icon: "fas fa-fw fa-comment"
       url: "https://bsky.app/profile/jrieksta.bsky.social"
     - label: "GitHub"
