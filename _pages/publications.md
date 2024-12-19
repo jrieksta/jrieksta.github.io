@@ -111,6 +111,7 @@ sidebar:
 
 
 ### Public outreach
+- Center for Volatile interactions video series "Meet the scientists" https://www.youtube.com/watch?v=0lKmviAQa7U 
 - Exhibition organizer for “Duftetur/Scented tour” in Ringve Botanical Garden, Trondheim, Norway (2023)
 - Interview for “Changing Perspectives – Access Abisko Values. The dynamics of nature’s contribution to people in a changing climate” (2022)
 - Blog post in “The herbivory network webpage: Studying herbivory in arctic and alpine ecosystems”: “Synergistic effects of insect herbivory and changing climate on plant volatile emissions in the subarctic tundra” (2021)
