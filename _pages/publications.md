@@ -108,3 +108,11 @@ sidebar:
 ## 2017
 
 - NTNU Sustainability Science Conference, Trondheim, Norway. Asante E.O., Yusra I., **Rieksta J.**, Nguyen T.V. "Designing a sustainable composting model to overcome peat-cutting" (*poster presentation*)
+
+
+### Public outreach
+- Exhibition organizer for “Duftetur/Scented tour” in Ringve Botanical Garden, Trondheim, Norway (2023)
+- Interview for “Changing Perspectives – Access Abisko Values. The dynamics of nature’s contribution to people in a changing climate” (2022)
+- Blog post in “The herbivory network webpage: Studying herbivory in arctic and alpine ecosystems”: “Synergistic effects of insect herbivory and changing climate on plant volatile emissions in the subarctic tundra” (2021)
+- Invited seminar talk “Volatiles in the Arctic” for student organization “Spīdola”, Latvia (2020)
+- Representation of Arctic research from University of Copenhagen at Danish Agency for Science and Higher Education stand in Circle Arctic Circle Assembly 2019, Reykjavík, Iceland (2019)
