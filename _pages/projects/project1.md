@@ -8,12 +8,11 @@ classes:
 sidebar:
   nav: "docs"
 ---
-
 <div style="display: flex; justify-content: space-between;">
 
-  ![Image 1](assets/images/indiv1.jpeg){: style="width: 30%;"}
-  ![Image 2](assets/images/indiv3.jpg){: style="width: 30%;"}
-  ![Image 3](assets/images/toolbox 2.png.jpg){: style="width: 30%;"}
+  <img src="assets/images/indiv1.jpeg" alt="Image 1" style="width: 30%;">
+  <img src="assets/images/indiv3.jpg" alt="Image 2" style="width: 30%;">
+  <img src="assets/images/toolbox 2.png.jpg" alt="Image 3" style="width: 30%;">
 
 </div>
 
