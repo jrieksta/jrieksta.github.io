@@ -86,7 +86,7 @@ This is the projects page.
 
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
     <a href="/projects/Climate-and-BVOCs">
-      <img src="/assets/images/unsplash-gallery-image-3.jpg" alt="Climate Change and BVOCs" style="width: 100%; height: auto; border-radius: 8px;">
+      <img src="/assets/images/Cover_photo.jpg" alt="Climate Change and BVOCs" style="width: 100%; height: auto; border-radius: 8px;">
     </a>
     <h3 style="text-align: center;">Climate Change and BVOCs</h3>
     <p style="text-align: center;">Exploring how climate change affects biogenic volatile organic compounds (BVOCs) emissions in the Arctic and subarctic regions.</p>
