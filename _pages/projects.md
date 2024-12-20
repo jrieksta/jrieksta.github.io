@@ -5,6 +5,25 @@ permalink: /projects/
 classes:
   - landing
   - dark-theme
+feature_row:
+  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
+    alt: "placeholder image 1"
+    title: "Placeholder 1"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Placeholder 2"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 3"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    title: "Placeholder 4"
+    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  
 #gallery:
  # - url: /assets/images/IMG_20190614_130910.jpg
  #   image_path: /assets/images/IMG_20190614_130910.jpg
@@ -26,9 +45,8 @@ classes:
   #nav: "docs"
 ---
 
-# Projects
 
-This is the projects page.
+
 
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-between;">
 
@@ -42,9 +60,9 @@ This is the projects page.
 
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
     <a href="/projects/HIPV">
-      <img src="/assets/images/unsplash-gallery-image-2.jpg" alt="Image 2 title caption" style="width: 100%; height: auto; border-radius: 8px;">
+      <img src="assets/images/IMG_20221003_113949.jpg" alt="Image 2 title caption" style="width: 100%; height: auto; border-radius: 8px;">
     </a>
-    <h3 style="text-align: center;">HIPV Project</h3>
+    <h3 style="text-align: center;">Herbivory stress VOCs</h3>
     <p style="text-align: center;">This project focuses on the impact of herbivore-induced plant volatiles on plant defense mechanisms in subarctic environments.</p>
   </div>
 
