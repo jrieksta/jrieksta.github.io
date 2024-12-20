@@ -8,95 +8,78 @@ classes:
 sidebar:
   nav: "docs"
 ---
-<div style="text-align: justify;">
-  <h2>SKILLS</h2>
-  <ul>
-    <li>Plant ecology, physiology, chemistry, insect herbivory</li>
-    <li>Volatile organic compounds, constitutive and induced volatile organic compounds (VOC) emissions, VOC sampling and analysis</li>
-    <li>Main languages: R; some expertise in UNIX, Python, MATLAB</li>
-    <li>Expertise in statistics, multivariate analysis, and simple machine learning algorithms</li>
-    <li>Software: PARADISe, Time management tools</li>
-    <li>DNA extraction, and genetic data processing, and analysis (ddRAD)</li>
-  </ul>
+## SKILLS
+- Plant ecology, physiology, chemistry, insect herbivory
+- Volatile organic compounds, constitutive and induced volatile organic compounds (VOC) emissions, VOC sampling and analysis
+- Main languages: R; some expertise in UNIX, Python, MATLAB
+- Expertise in statistics, multivariate analysis, and simple machine learning algorithms
+- Software: PARADISe, Time management tools
+- DNA extraction, and genetic data processing, and analysis (ddRAD)
 
-  <h2>EDUCATION</h2>
-  <ul>
-    <li><strong>2021</strong>: PhD in Biology, University of Copenhagen, Denmark<br> Supervisors: Riikka Rinnan, Tao Li</li>
-    <li><strong>2018</strong>: MSc in Biology, Norwegian University of Science and Technology, Norway</li>
-    <li><strong>2015</strong>: BSc in Biology, University of Latvia, Latvia</li>
-  </ul>
+## EDUCATION
+- **2021**: PhD in Biology, University of Copenhagen, Denmark  
+  Supervisors: Riikka Rinnan, Tao Li  
+- **2018**: MSc in Biology, Norwegian University of Science and Technology, Norway  
+- **2015**: BSc in Biology, University of Latvia, Latvia  
 
-  <h2>EMPLOYMENT</h2>
-  <ul>
-    <li><strong>Present</strong>: Postdoc, Center for Volatile Interactions (VOLT), University of Copenhagen, Denmark</li>
-    <li><strong>2018 – 2021</strong>: PhD student, University of Copenhagen, Denmark</li>
-    <li><strong>2017</strong>: Lab assistant in Plant Physiology course, Norwegian University of Science and Technology, Norway</li>
-    <li><strong>2015</strong>: Research assistant, Latvian Plant Protection Research Center, Latvia</li>
-    <li><strong>2013-2014</strong>: Natural sciences participation coordinator, Education program “Iespējamā misija”, Latvia</li>
-  </ul>
+## EMPLOYMENT
+- **Present**: Postdoc, Center for Volatile Interactions (VOLT), University of Copenhagen, Denmark  
+- **2018 – 2021**: PhD student, University of Copenhagen, Denmark  
+- **2017**: Lab assistant in Plant Physiology course, Norwegian University of Science and Technology, Norway  
+- **2015**: Research assistant, Latvian Plant Protection Research Center, Latvia  
+- **2013-2014**: Natural sciences participation coordinator, Education program “Iespējamā misija”, Latvia  
 
-  <h2>INTERNATIONAL MOBILITY</h2>
-  <ul>
-    <li><strong>2023-Present</strong>: VILLUM International Postdoc, Norwegian University of Science and Technology, Norway</li>
-    <li><strong>2019</strong>: Change of scientific environment, University of Salzburg, Austria</li>
-    <li><strong>2015-2016</strong>: Erasmus+ studies, Norwegian University of Science and Technology, Norway</li>
-    <li><strong>2014</strong>: Erasmus+ studies, University of Eastern Finland, Finland</li>
-  </ul>
+## INTERNATIONAL MOBILITY
+- **2023-Present**: VILLUM International Postdoc, Norwegian University of Science and Technology, Norway  
+- **2019**: Change of scientific environment, University of Salzburg, Austria  
+- **2015-2016**: Erasmus+ studies, Norwegian University of Science and Technology, Norway  
+- **2014**: Erasmus+ studies, University of Eastern Finland, Finland  
 
-  <h2>FUNDING (as principal investigator)</h2>
-  <ul>
-    <li><strong>VILLUM International Postdoc 2022.</strong> IndiVOCtual - sources of within-species variation determining biogenic volatile organic compound (BVOC) emissions from mountain birch forests (<strong>2,500,000 DKK</strong>)</li>
-  </ul>
+## FUNDING (as principal investigator)
+- **VILLUM International Postdoc 2022.** IndiVOCtual - sources of within-species variation determining biogenic volatile organic compound (BVOC) emissions from mountain birch forests (**2,500,000 DKK**)
 
-  <h2>TEACHING AND SUPERVISION</h2>
-  <h3>Teaching and Workshops</h3>
-  <ul>
-    <li><strong>Lectures at Norwegian University of Science and Technology</strong>:
-      <ul>
-        <li><strong>Department of Geography, Geophysical and Biological Natural Hazards Course</strong><br> Topics: Biological Invasions, Climate Change, Mass Extinctions</li>
-        <li><strong>Department of Biology, Biology without Borders Course</strong><br> Topics: Volatile Emissions in a Changing Climate</li>
-      </ul>
-    </li>
+## TEACHING AND SUPERVISION  
 
-    <li><strong>Lectures at the PhD course *Biogenic Volatiles – Exchange at Different Scales and Interactions with Ecosystem Processes*, University of Copenhagen, Denmark</strong>:<br> "Herbivory-induced BVOC emissions in a changing environment", "Random Forests"</li>
+### Teaching and Workshops
+- **Lectures at Norwegian University of Science and Technology**:  
+  - **Department of Geography, Geophysical and Biological Natural Hazards Course**  
+    - Topics: Biological Invasions, Climate Change, Mass Extinctions  
+  - **Department of Biology, Biology without Borders Course**  
+    - Topics: Volatile Emissions in a Changing Climate  
 
-    <li><strong>Guest lecture at MSc course *Climate Change and Biogeochemical Cycles*, University of Copenhagen, Denmark</strong>:<br> "VOC mediated plant-insect interactions in the Arctic"</li>
+- **Lectures at the PhD course *Biogenic Volatiles – Exchange at Different Scales and Interactions with Ecosystem Processes*, University of Copenhagen, Denmark**:  
+  - "Herbivory-induced BVOC emissions in a changing environment"  
+  - "Random Forests"  
 
-    <li><strong>Guest lecture at MSc course *Climate Change and Biogeochemical Cycles*, University of Copenhagen, Denmark</strong>:<br> "Climate change, insect herbivory, and VOCs"</li>
+- **Guest lecture at MSc course *Climate Change and Biogeochemical Cycles*, University of Copenhagen, Denmark**:  
+  - "VOC mediated plant-insect interactions in the Arctic"  
 
-    <li><strong>Workshops for Center for Volatile Interactions, Section for Plant Biochemistry, University of Copenhagen, Denmark</strong>:<br> "Random Forests with R"</li>
+- **Guest lecture at MSc course *Climate Change and Biogeochemical Cycles*, University of Copenhagen, Denmark**:  
+  - "Climate change, insect herbivory, and VOCs"  
 
-    <li><strong>Other seminars</strong>:
-      <ul>
-        <li>Hosted a seminar for Center for Permafrost PhD students, University of Copenhagen “Finish on Time Workshop: Academic productivity and stress management – the road to effectiveness”</li>
-        <li>Hosted a seminar for Department of Biology PhD students at University of Copenhagen “Realistic project planning – tips, tricks and hands on exercises”</li>
-      </ul>
-    </li>
-  </ul>
+- **Workshops for Center for Volatile Interactions, Section for Plant Biochemistry, University of Copenhagen, Denmark**:  
+  - "Random Forests with R"  
 
-  <h3>Supervision</h3>
-  <ul>
-    <li>Co-supervisor for <strong>5 MSc students</strong></li>
-    <li>Internship supervisor for Erasmus Mundus intern</li>
-    <li>Field work leader for MSc students in <strong>Abisko, Sweden</strong></li>
-    <li>Field work leader for PhD, MSc, and BSc students during a <strong>three-month field work</strong> in <strong>Narsarsuaq, Greenland</strong></li>
-    <li>Laboratory work assistant in <strong>“Advanced Ecology” course</strong>, University of Copenhagen, Denmark</li>
-  </ul>
+- **Other seminars**:  
+  - Hosted a seminar for Center for Permafrost PhD students, University of Copenhagen “Finish on Time Workshop: Academic productivity and stress management – the road to effectiveness”  
+  - Hosted a seminar for Department of Biology PhD students at University of Copenhagen “Realistic project planning – tips, tricks and hands on exercises”  
 
-  <h2>ACADEMIC AND OTHER ACTIVITIES</h2>
-  <ul>
-    <li>Manuscript reviewer for *Ecological Research*, *Ecosystems*, *Arthropod-Plant Interactions*</li>
-  </ul>
+### Supervision
+- Co-supervisor for **5 MSc students**  
+- Internship supervisor for Erasmus Mundus intern  
+- Field work leader for MSc students in **Abisko, Sweden**  
+- Field work leader for PhD, MSc, and BSc students during a **three-month field work** in **Narsarsuaq, Greenland**  
+- Laboratory work assistant in **“Advanced Ecology” course**, University of Copenhagen, Denmark  
 
-  <h3>Societies and Memberships</h3>
-  <ul>
-    <li><strong>APECS (Association of Polar Early Career Scientists)</strong>: Council member 2021-2022</li>
-    <li><strong>APECS</strong>: Project group leader for Alpine Cryosphere project group 2021-2022</li>
-    <li><strong>APECS Denmark</strong> (Denmark)</li>
-    <li><strong>BIONET</strong>: PhD student network at Biology Department, University of Copenhagen (Denmark)</li>
-    <li><strong>Nordic Society Oikos</strong> (Denmark)</li>
-    <li><strong>Technoport</strong>: Organization to advance science-based, technological innovation & entrepreneurship (Norway)</li>
-    <li><strong>Students' Council of the University of Latvia</strong> (Latvia)</li>
-    <li><strong>Students' Council of the University of Latvia, Faculty of Biology</strong> (Latvia)</li>
-  </ul>
-</div>
+## ACADEMIC AND OTHER ACTIVITIES  
+- Manuscript reviewer for *Ecological Research*, *Ecosystems*, *Arthropod-Plant Interactions*  
+
+### Societies and Memberships
+- **APECS (Association of Polar Early Career Scientists)**: Council member 2021-2022  
+- **APECS**: Project group leader for Alpine Cryosphere project group 2021-2022  
+- **APECS Denmark** (Denmark)  
+- **BIONET**: PhD student network at Biology Department, University of Copenhagen (Denmark)  
+- **Nordic Society Oikos** (Denmark)  
+- **Technoport**: Organization to advance science-based, technological innovation & entrepreneurship (Norway)  
+- **Students' Council of the University of Latvia** (Latvia)  
+- **Students' Council of the University of Latvia, Faculty of Biology** (Latvia)  
