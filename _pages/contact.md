@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Contact"
-permalink: /contact
+title: "Blog"
+permalink: /Blog
 ---
 
 # Contact
