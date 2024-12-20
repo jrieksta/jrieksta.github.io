@@ -21,7 +21,7 @@ feature_row:
     title: "Climate Change and BVOCs"
     excerpt: "Exploring how climate change affects biogenic volatile organic compounds (BVOCs) emissions in the Arctic and subarctic regions."
     url: "/projects/Climate-and-BVOCs"
-  - image_path: /assets/images/unsplash-gallery-image-3.jpg
+  - image_path: /assets/images/aspen.jpg
     alt: "Functional Traits Project"
     title: "Functional Traits Project"
     excerpt: "Investigating the functional traits of plants and how they influence ecosystem services in Arctic ecosystems."
@@ -94,10 +94,10 @@ This is the projects page.
 
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
     <a href="/projects/Functional-traits">
-      <img src="/assets/images/unsplash-gallery-image-3.jpg" alt="Functional Traits Project" style="width: 100%; height: auto; border-radius: 8px;">
+      <img src="/assets/images/aspen.jpg" alt="Functional Traits" style="width: 100%; height: auto; border-radius: 8px;">
     </a>
-    <h3 style="text-align: center;">Functional Traits Project</h3>
-    <p style="text-align: center;">Investigating the functional traits of plants and how they influence ecosystem services in Arctic ecosystems.</p>
+    <h3 style="text-align: center;">Functional Traits</h3>
+    <p style="text-align: center;">Intraspecific funtional trait variation across quaking aspen genotypes and cytotypes</p>
   </div>
 
 </div>
