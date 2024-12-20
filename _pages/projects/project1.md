@@ -9,7 +9,13 @@ sidebar:
   nav: "docs"
 ---
 
+<div style="display: flex; justify-content: space-between;">
 
+  ![Image 1](assets/images/indiv1.jpeg){: style="width: 30%;"}
+  ![Image 2](assets/images/indiv3.jpg){: style="width: 30%;"}
+  ![Image 3](assets/images/toolbox 2.png.jpg){: style="width: 30%;"}
+
+</div>
 
 # Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch
 
@@ -37,17 +43,6 @@ The project is funded by VILLUM (VILLUM International postdoc grant
 ### Collaborators
 
 
-<img src="/assets/images/VOLT_logo_white_Full_logo_color.png" alt="VOLT Logo" style="width:150px; height:auto;">
-
-<img src="/assets/images/Screenshot%202024-12-20%20at%2012.16.31.png" alt="NTNU Museum" style="width:150px; height:auto;">
-
-<img src="/assets/images/holologo.png" alt="Holo Logo" style="width:150px; height:auto;">
-
-<img src="/assets/images/ninalog.jpeg" alt="NINA Logo" style="width:150px; height:auto;">
-
-
-
-
 <table>
   <tr>
     <td style="padding-right:20px;">
@@ -60,7 +55,7 @@ The project is funded by VILLUM (VILLUM International postdoc grant
       <img src="/assets/images/holologo.png" alt="Holo Logo" style="width:200px; height:auto;">
     </td>
     <td style="padding-right: 20px;">
-      <img src="/assets
+      <img src="/assets/images/ninalog.jpeg
 
 
 
