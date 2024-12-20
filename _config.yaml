@@ -3,7 +3,7 @@ minimal_mistakes_skin: "dark"
 include: ["_pages"]
 plugins:
   - jekyll-include-cache
-subtitle: "Version 2.0"
+subtitle: "Jrieksta, PhD"
 logo: "/assets/images/logo_bold_same_size-removebg-preview.png"
 name: "Michael Rose"
 description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
