@@ -10,23 +10,23 @@ sidebar:
 ---
 
 ## EDUCATION
-- **Oct 4, 2021**: PhD in Biology, University of Copenhagen, Denmark  
+- **2021**: PhD in Biology, University of Copenhagen, Denmark  
   Supervisors: Riikka Rinnan, Tao Li  
-- **Oct 12, 2018**: MSc in Biology, Norwegian University of Science and Technology, Norway  
-- **Jun 19, 2015**: BSc in Biology, University of Latvia, Latvia  
+- **2018**: MSc in Biology, Norwegian University of Science and Technology, Norway  
+- **2015**: BSc in Biology, University of Latvia, Latvia  
 
 ## EMPLOYMENT
-- **1/22 – 2/26**: Postdoc, University of Copenhagen, Denmark  
-- **6/18 – 11/21**: PhD student, University of Copenhagen, Denmark  
-- **9/17 – 12/17**: Lab assistant in Plant Physiology course, Norwegian University of Science and Technology, Norway  
-- **5/15 – 8/15**: Research assistant, Latvian Plant Protection Research Center, Latvia  
-- **9/13 – 5/14**: Natural sciences participation coordinator, Education program “Iespējamā misija”, Latvia  
+- **Present **: Postdoc, University of Copenhagen, Denmark  
+- **2018 – 2021**: PhD student, University of Copenhagen, Denmark  
+- **2017**: Lab assistant in Plant Physiology course, Norwegian University of Science and Technology, Norway  
+- **2015**: Research assistant, Latvian Plant Protection Research Center, Latvia  
+- **2013-2014**: Natural sciences participation coordinator, Education program “Iespējamā misija”, Latvia  
 
 ## INTERNATIONAL MOBILITY
-- **3/23 - 11/25**: VILLUM International Postdoc, Norwegian University of Science and Technology, Norway  
-- **1/19 - 3/19**: Change of scientific environment, University of Salzburg, Austria  
-- **8/15 - 6/16**: Erasmus+ studies, Norwegian University of Science and Technology, Norway  
-- **9/14 - 12/14**: Erasmus+ studies, University of Eastern Finland, Finland  
+- **2023-Present**: VILLUM International Postdoc, Norwegian University of Science and Technology, Norway  
+- **2019**: Change of scientific environment, University of Salzburg, Austria  
+- **2015-2015**: Erasmus+ studies, Norwegian University of Science and Technology, Norway  
+- **2014**: Erasmus+ studies, University of Eastern Finland, Finland  
 
 ## TEACHING AND SUPERVISION  
 ### Teaching and Workshops
