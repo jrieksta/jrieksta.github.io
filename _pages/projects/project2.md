@@ -48,5 +48,5 @@ High abundance of geometrid moths in 2022, a year before the outbreak in 2023:
   Your browser does not support the video tag.
 </video>
 
-                                                            This researh is funded by
-                                                        ![alt text](/assets/images/dff.png)
+This researh is funded by
+ ![alt text](/assets/images/dff.png)
