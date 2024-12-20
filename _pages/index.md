@@ -22,5 +22,6 @@ I am a biologist with keen interest in understanding how ecosystems function and
 More specifically, how changes in climate and biotic stresses affect plant volatilomes, genetics, and functional traits, and what implications these changes might have on ecosystem functioning. 
 I have conducted extensive field campaigns in Greenland, Northern Fennoscandia, and Rocky Mountains. I am also interested in bioinformatics, programming, and application of data science tools in biology.
 Scroll through the webpage to see my reserach interests and projects in more detail. 
+<br>
 Cheers!
 </small>
