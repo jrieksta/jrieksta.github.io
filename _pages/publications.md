@@ -13,12 +13,7 @@ sidebar:
 
 ### Peer-reviewed publications (published and in preparation)
 
-#### 2024
 
-- **Rieksta, J., Graae, B. J., Helsen, K., Kapás, R. E., Strimbeck, R., Blonder B.**  
-  *Disintegration of the leaf economic spectrum within and across Quaking aspen (Populus tremuloides) genotypes* (in review)
-
----
 
 #### 2023
 
