@@ -50,22 +50,6 @@ feature_row:
   #nav: "docs"
 ---
 
-
----
-layout: single
-title: "Projects"
-permalink: /projects/
-classes:
-  - landing
-  - dark-theme
-sidebar:
-  nav: "docs"
----
-
-# Projects
-
-This is the projects page.
-
 <div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-between;">
 
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
