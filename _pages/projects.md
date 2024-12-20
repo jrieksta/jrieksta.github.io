@@ -6,7 +6,7 @@ classes:
   - landing
   - dark-theme
 gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
+  - url: /assets/images/assets/images/IMG_20190614_130910.jpg
     image_path: /assets/images/assets/images/IMG_20190614_130910.jpg
     alt: "placeholder image 1"
     title: "VOC measurements in South Greenland. Here we used open toc chambers (OTC) that mimics climate warming to look at the future VOC emissions "
