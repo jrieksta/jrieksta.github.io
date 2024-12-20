@@ -58,6 +58,25 @@ The project is funded by VILLUM (VILLUM International postdoc grant
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td style="padding-right: 20px;">
+      <img src="/assets/images/VOLT_logo_white_Full_logo_color.png" alt="VOLT Logo" style="width:200px; height:auto;">
+    </td>
+    <td style="padding-right: 20px;">
+      <img src="/assets/images/Screenshot%202024-12-20%20at%2012.16.31.png" alt="NTNU Museum" style="width:200px; height:auto;">
+    </td>
+    <td style="padding-right: 20px;">
+      <img src="/assets/images/holologo.png" alt="Holo Logo" style="width:200px; height:auto;">
+    </td>
+    <td style="padding-right: 20px;">
+      <img src="/assets/images/ninalog.jpeg" alt="NINA Logo" style="width:200px; height:auto;">
+    </td>
+    <td>
+      <img src="/assets/images/logo_bold_same_size-removebg-preview.png" alt="Bold Logo" style="width:200px; height:auto;">
+    </td>
+  </tr>
+</table>
 
 
 
