@@ -10,6 +10,7 @@ sidebar:
 ---
 
 
+
 # Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch
 
 
@@ -23,24 +24,24 @@ Therefore, the main aim of this project is to quantify the sources of within-spe
 ### Collaborators
 
 - Center for Volatile Interactions (VOLT)
-![Description of image](/assets/images/assets/images/VOLT_logo_transparent_Full_logo_color.png) 
+![Description of image](/assets/images/VOLT_logo_transparent_Full_logo_color.png) 
 
 
 - Norwegian Univeristy of Science and Technology Museum: Kristine Bakke Westergaard, Jamed D.M. Speed, Sarah Martin, Mike Martin
 ![Description of image](/assets/images/NTNU.png) 
 
 - Holomueomics group at NTNU Museum
-![Description of image](assets/images/holomuseomics_logo.png) 
+![Description of image](/assets/images/holomuseomics_logo.png) 
  
 - Norwegian institute for Nature Research
-![Description of image](assets/images/ninalog.jpeg) 
+![Description of image](/assets/images/ninalog.jpeg) 
 
 
 
 
-![Description of image](/assets/images/cassets/images/logo_bold_same_size-removebg-preview.png) 
+![Description of image](/assets/images/logo_bold_same_size-removebg-preview.png) 
 
-![Description of image](/assets/images//villum_fonden_logo_hvid_RGB.png) The project is funded by VILLUM (VILLUM International postdoc grant) https://villumfonden.dk/en/group/grantsubarea/villum-international-postdoc
+![Description of image](/assets/images/villum_fonden_logo_hvid_RGB.png) The project is funded by VILLUM (VILLUM International postdoc grant) https://villumfonden.dk/en/group/grantsubarea/villum-international-postdoc
 
 
 
