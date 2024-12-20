@@ -13,7 +13,7 @@ sidebar:
 
 ### Peer-reviewed publications (published and in preparation)
 
-
+<div style="text-align: justify;">
 
 #### 2023
 
@@ -62,8 +62,6 @@ sidebar:
   *Journal of Ecology,* 108(1), 175–188.  
   [https://doi.org/10.1111/1365-2745.13296](https://doi.org/10.1111/1365-2745.13296)
 
-
-
 ### Presentations, posters, conferences
 
 #### 2024
@@ -104,7 +102,6 @@ sidebar:
 
 - NTNU Sustainability Science Conference, Trondheim, Norway. Asante E.O., Yusra I., **Rieksta J.**, Nguyen T.V. "Designing a sustainable composting model to overcome peat-cutting" (*poster presentation*)
 
-
 ### Public outreach
 - Center for Volatile interactions video series "Meet the scientists"[https://www.youtube.com/watch?v=0lKmviAQa7U ](https://www.youtube.com/watch?v=0lKmviAQa7U )
 - Exhibition organizer for “Duftetur/Scented tour” in Ringve Botanical Garden, Trondheim, Norway (2023)
@@ -112,3 +109,7 @@ sidebar:
 - Blog post in “The herbivory network webpage: Studying herbivory in arctic and alpine ecosystems”: “Synergistic effects of insect herbivory and changing climate on plant volatile emissions in the subarctic tundra” (2021)
 - Invited seminar talk “Volatiles in the Arctic” for student organization “Spīdola”, Latvia (2020)
 - Representation of Arctic research from University of Copenhagen at Danish Agency for Science and Higher Education stand in Circle Arctic Circle Assembly 2019, Reykjavík, Iceland (2019)
+
+</div>
+
+

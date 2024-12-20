@@ -22,7 +22,7 @@ Current ecosystem models, however, do not consider plant diversity and insect he
 </p>
 
 <p style="text-align: justify;">
-Therefore, the main aim of this project is to quantify the sources of within-species variation and insect herbivory determining the BVOC emissions from widespread mountain birch forests in Subarctic. These factors are necessary to improve our ability to predict volatile emissions from high-latitude ecosystems.
+Therefore, the main aim of this project is to quantify the sources of within-species variation and insect herbivory determining the BVOC emissions from widespread mountain birch (*Betula pubescens*) forests in Subarctic. These factors are necessary to improve our ability to predict volatile emissions from high-latitude ecosystems.
 </p>
 
 
