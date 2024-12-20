@@ -1,29 +1,29 @@
 ---
 layout: single
-title: "Welcome to My Website"
+title: "Research projects"
 permalink: /projects/
 classes:
   - landing
   - dark-theme
-gallery:
-  - url: /assets/images/IMG_20190614_130910.jpg
-    image_path: /assets/images/IMG_20190614_130910.jpg
-    alt: "VOC measurements in South Greenland"
-    title: "VOC measurements in South Greenland. Here we used open toc chambers (OTC) that mimics climate warming to look at the future VOC emissions"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: /assets/images/unsplash-gallery-image-2.jpg
-    alt: "Image 2 title caption"
-    title: "Image 2 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3.jpg
-    alt: "Image 3 title caption"
-    title: "Image 3 title caption"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: /assets/images/unsplash-gallery-image-3.jpg
-    alt: "Image 3 title caption"
-    title: "Image 3 title caption"
-sidebar:
-  nav: "docs"
+#gallery:
+ # - url: /assets/images/IMG_20190614_130910.jpg
+ #   image_path: /assets/images/IMG_20190614_130910.jpg
+ #   alt: "VOC measurements in South Greenland"
+ #   title: "VOC measurements in South Greenland. Here we used open toc chambers (OTC) that mimics climate warming to look at the future VOC emissions"
+ # - url: /assets/images/unsplash-gallery-image-2.jpg
+ #   image_path: /assets/images/unsplash-gallery-image-2.jpg
+ #   alt: "Image 2 title caption"
+ #   title: "Image 2 title caption"
+ # - url: /assets/images/unsplash-gallery-image-3.jpg
+ #   image_path: /assets/images/unsplash-gallery-image-3.jpg
+ #   alt: "Image 3 title caption"
+ #   title: "Image 3 title caption"
+ # - url: /assets/images/unsplash-gallery-image-3.jpg
+ #   image_path: /assets/images/unsplash-gallery-image-3.jpg
+#    alt: "Image 3 title caption"
+#    title: "Image 3 title caption"
+#sidebar:
+  #nav: "docs"
 ---
 
 # Projects
@@ -34,10 +34,10 @@ This is the projects page.
 
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
     <a href="/projects/indiVOCtual">
-      <img src="/assets/images/IMG_20190614_130910.jpg" alt="VOC measurements in South Greenland" style="width: 100%; height: auto; border-radius: 8px;">
+      <img src="/assets/images/logo_bold_same_size-removebg-preview.png" alt="indiVOCtual" style="width: 100%; height: auto; border-radius: 8px;">
     </a>
-    <h3 style="text-align: center;">VOC Measurements in South Greenland</h3>
-    <p style="text-align: center;">Here we used open toc chambers (OTC) that mimic climate warming to look at the future VOC emissions in South Greenland.</p>
+    <h3 style="text-align: center;">indiVOCtual</h3>
+    <p style="text-align: center;">Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch</p>
   </div>
 
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
