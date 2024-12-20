@@ -26,9 +26,9 @@ Therefore, the main aim of this project is to quantify the sources of within-spe
 
 ![Description of image](/assets/images/VOLT_logo_transparent_Full_logo_color.png) 
 
-![Norwegian Univeristy of Science and Technology Museum: Kristine Bakke Westergaard, Jamed D.M. Speed, Sarah Martin, Mike Martin](/assets/images/NTNU.png) 
+![Norwegian Univeristy of Science and Technology Museum: Kristine Bakke Westergaard, Jamed D.M. Speed, Sarah Martin, Mike Martin](/assets/images/Screenshot 2024-12-20 at 12.16.31.png) 
 
-![Description of image](/assets/images/holomuseomics_logo.png) 
+![Description of image](/assets/images/holologo.png) 
 
 ![Description of image](/assets/images/ninalog.jpeg) 
 
