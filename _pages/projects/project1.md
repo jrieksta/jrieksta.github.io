@@ -10,11 +10,12 @@ sidebar:
 ---
 <div style="display: flex; justify-content: space-between;">
 
-  <img src="assets/images/indiv1.jpeg" alt="Image 1" style="width: 30%;">
-  <img src="assets/images/indiv3.jpg" alt="Image 2" style="width: 30%;">
-  <img src="assets/images/toolbox 2.png.jpg" alt="Image 3" style="width: 30%;">
+  <img src="/assets/images/indiv1.jpeg" alt="Image 1" style="width: 30%;">
+  <img src="/assets/images/indiv3.jpg" alt="Image 2" style="width: 30%;">
+  <img src="/assets/images/toolbox 2.png.jpg" alt="Image 3" style="width: 30%;">
 
 </div>
+
 
 # Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch
 
