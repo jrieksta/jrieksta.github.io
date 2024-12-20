@@ -7,8 +7,8 @@ classes:
   - dark-theme
 sidebar:
   nav: "docs"
-  header:
-  image: /workspaces/jrieksta.github.io/assets/images/banner hipv.jpeg
+header:
+  image: /assets/images/banner hipv.jpeg
   
 ---
 
