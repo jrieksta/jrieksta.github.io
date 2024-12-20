@@ -1,6 +1,6 @@
 ---
 layout: single # Use the "single" layout, which supports the author profile
-title: "Volatiles, chemistry, and ecology of High-Latitude Ecosystems"
+title: "Volatiles, chemistry, and ecology of high-latitude ecosystems"
 author_profile: true # Enable the author profile
 permalink: /
 sidebar:
