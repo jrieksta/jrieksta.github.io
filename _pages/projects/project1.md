@@ -8,16 +8,10 @@ classes:
 sidebar:
   nav: "docs"
 ---
-<div style="display: flex; justify-content: space-between;">
-
-  <img src="/assets/images/indiv1.jpeg" alt="Image 1" style="width: 30%;">
-  <img src="/assets/images/indiv3.jpg" alt="Image 2" style="width: 30%;">
-  <img src="/assets/images/toolbox2.png" alt="Image 3" style="width: 30%;">
-
-</div>
-
 
 ## Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch
+
+![Description of the image](/assets/images/indivoc_knowledgegap.png)
 
 <p style="text-align: justify;">
 Unprecedented climatic changes have caused significant alterations to vegetation composition. These alterations are especially prevalent in the Arctic, with accelerated changes predicted in the future. Changes in vegetation composition significantly alter emissions of highly reactive biogenic volatile organic compounds (BVOCs), which in turn alter their impacts on atmospheric chemistry and physics.
@@ -56,9 +50,6 @@ The project is funded by VILLUM (VILLUM International postdoc grant
     </td>
     <td style="padding-right: 20px;">
       <img src="/assets/images/ninalog.jpeg" alt="NINA Logo" style="width:200px; height:auto;">
-    </td>
-    <td>
-      <img src="/assets/images/logo_bold_same_size-removebg-preview.png" alt="Bold Logo" style="width:200px; height:auto;">
     </td>
   </tr>
 </table>
