@@ -5,7 +5,7 @@ plugins:
   - jekyll-include-cache
 subtitle: "Jolanta Rieksta, PhD"
 logo: "/assets/images/logo_bold_same_size-removebg-preview.png"
-name: "Michael Rose"
+name: "Jolanta Rieksta"
 description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 
 defaults:
