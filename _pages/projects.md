@@ -1,7 +1,8 @@
 ---
 layout: single
 title: "Research projects"
-permalink: /projects/
+#permalink: /projects/
+author_profile: true
 classes:
   - landing
   - dark-theme
