@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "HIPV"
+title: "Mountain birch forest volatile emissions under different herbivory pressures at the ecosystem scale in the Subarctic"
 permalink: /projects/HIPV
 classes:
   - landing
@@ -11,8 +11,6 @@ header:
   image: /assets/images/banner hipv.jpeg
   
 ---
-
-# Mountain birch forest volatile emissions under different herbivory pressures at the ecosystem scale in the Subarctic
 
 Main aim of this project is to quantify mountain birch forest volatile emissions under different herbivory pressures at the ecosystem scale in the Subarctic. Furthermore, assess the herbivory volatile mediated feedbacks on the climate system, including ecosystem-atmosphere interactions. We measured ecosystem fluxes of VOCs, CO2, H20 using 
 PTR-TOF-MS (proton-transfer-reaction time-of-flight mass spectrometer) and eddy covariance. Oour real-time gas measurements had been running continuously for three years. 
