@@ -8,7 +8,8 @@ classes:
 sidebar:
   nav: "docs"
 header:
-  image: /assets/images/banner hipv.jpeg
+  image: /assets/images/banner hipv2.jpg
+
   
 ---
 
