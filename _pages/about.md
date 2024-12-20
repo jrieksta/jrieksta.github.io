@@ -16,7 +16,7 @@ sidebar:
 - **2015**: BSc in Biology, University of Latvia, Latvia  
 
 ## EMPLOYMENT
-- **Present **: Postdoc, University of Copenhagen, Denmark  
+- **Present**: Postdoc, Center for Volatile Interactions (VOLT), University of Copenhagen, Denmark  
 - **2018 – 2021**: PhD student, University of Copenhagen, Denmark  
 - **2017**: Lab assistant in Plant Physiology course, Norwegian University of Science and Technology, Norway  
 - **2015**: Research assistant, Latvian Plant Protection Research Center, Latvia  
