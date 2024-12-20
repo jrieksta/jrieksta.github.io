@@ -8,7 +8,7 @@ classes:
 sidebar:
   nav: "docs"
 ---
-
+<img src="/assets/received_1858781437542918.jpeg" alt="Banner description" style="width:100%; height:auto;">
 
 ## SKILLS
 - Plant ecology, physiology, chemistry, insect herbivory
