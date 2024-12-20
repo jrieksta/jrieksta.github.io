@@ -8,7 +8,7 @@ classes:
 sidebar:
   nav: "docs"
 header:
-  image: /assets/images/banner hipv2.jpg
+  image: /assets/images/bannerhipv2.jpg
 
   
 ---
@@ -37,8 +37,8 @@ Forest floor VOC measurements from different ground vegetation types:
 
 VOC measurements from mountain birch leaves under varying insect herbivore lavels. Winter moth (*O. brumata*) and autumnal moth (*E. autumnata*) are locally dominant geometrid moths causing cyclic insect outbreaks approximately every 10 years in Northern Fennoscandia. 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="../../assets/images/leaf3.jpeg" alt="Leaf 3" style="width: 48%;">
-  <img src="../../assets/images/leaf4.jpeg" alt="Leaf 4" style="width: 48%;">
+  <img src="/assets/images/leaf3.jpeg" alt="Leaf 3" style="width: 48%;">
+  <img src="/assets/images/leaf4.jpeg" alt="Leaf 4" style="width: 48%;">
 </div>
 
 
