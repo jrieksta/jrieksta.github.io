@@ -17,7 +17,7 @@ header:
 ---
 
 ![Description of image](/assets/2022-06-26 14.18.53.jpg)
-
+<small>
 I am a biologist with keen interest in understanding how ecosystems function and respond to various stressors at high altitude and latitude ecosystems, and how climate change affect these responses. 
 
 More specifically, how changes in climate and biotic stresses affect plant volatilomes, genetics, and functional traits, and what implications these changes might have on ecosystem functioning. 
@@ -27,3 +27,4 @@ I have conducted extensive field campaigns in Greenland, Northern Fennoscandia, 
 Scroll through the webpage to see my reserach interests and projects in more detail. 
 
 Cheers!
+</small>
