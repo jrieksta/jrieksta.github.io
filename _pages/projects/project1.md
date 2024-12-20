@@ -18,7 +18,9 @@ Unprecedented climatic changes have caused significant alterations to vegetation
 Current ecosystem models, however, do not consider plant diversity and insect herbivory when estimating BVOC emissions, which are predicted to increase in future. 
 Therefore, the main aim of this project is to quantify the sources of within-species variation and insect herbivory determining the BVOC emissions from widespread mountain birch forests in Subarctic. These factors are  necessary to improve our ability to predict volatile emissions from high-latitude ecosystems.
 
-![Concept figure of IndiVOCtual - linking phenotypic and genetic diversity, insect herbivory, and modelling to asses within-species varfiation of moutain birch volatile emissions.](/assets/images/concept.png) 
+![Concept figure of IndiVOCtual - linking phenotypic and genetic diversity, insect herbivory, and modelling to asses within-species varfiation of moutain birch volatile emissions.](/assets/images/concept_logo.png) 
+
+![Description of image](/assets/images/villum_fonden_logo_hvid_RGB.png) The project is funded by VILLUM (VILLUM International postdoc grant) https://villumfonden.dk/en/group/grantsubarea/villum-international-postdoc
 
 
 ### Collaborators
@@ -34,7 +36,15 @@ Therefore, the main aim of this project is to quantify the sources of within-spe
 
 ![Description of image](/assets/images/logo_bold_same_size-removebg-preview.png) 
 
-![Description of image](/assets/images/villum_fonden_logo_hvid_RGB.png) The project is funded by VILLUM (VILLUM International postdoc grant) https://villumfonden.dk/en/group/grantsubarea/villum-international-postdoc
+<img src="/assets/images/VOLT_logo_transparent_Full_logo_color.png" alt="VOLT Logo" style="width:150px; height:auto;">
+
+<img src="/assets/images/Screenshot%202024-12-20%20at%2012.16.31.png" alt="NTNU Museum" style="width:150px; height:auto;">
+
+<img src="/assets/images/holologo.png" alt="Holo Logo" style="width:150px; height:auto;">
+
+<img src="/assets/images/ninalog.jpeg" alt="NINA Logo" style="width:150px; height:auto;">
+
+<img src="/assets/images/logo_bold_same_size-removebg-preview.png" alt="Bold Logo" style="width:150px; height:auto;">
 
 
 
