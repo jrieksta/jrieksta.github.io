@@ -16,6 +16,7 @@ header:
      # url: "/about/"
 ---
 
+![Description of image](/assets/2022-06-26 14.18.53.jpg)
 
 I am a biologist with keen interest in understanding how ecosystems function and respond to various stressors at high altitude and latitude ecosystems, and how climate change affect these responses. 
 

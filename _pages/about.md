@@ -11,8 +11,8 @@ sidebar:
 
 
 ## SKILLS
-- Plant ecology, physiology, chemistry, infect herbivory
-- Constitutive and induced volatile organic compounds (VOCs), VOC sampling and analysis
+- Plant ecology, physiology, chemistry, insect herbivory
+- Volatile organic comopunds, constitutive and induced volatile organic compounds (VOC) emissions, VOC sampling and analysis
 - Main languages:  R; some expertise in UNIX, Python, MATLAB
 - Expertise in statistics, multivariate analysis, and simple machine learning algorithms
 - Software: PARADISe, Time management tools
