@@ -14,7 +14,7 @@ sidebar:
 # Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch
 
 
-- Unprecedented climatic changes have caused significant alterations to vegetation composition. These alterations are especially prevalent in the Arctic, with accelerated changes predicted in the future. Changes in vegetation composition significantly alter emissions of highly reactive biogenic volatile organic compounds (BVOCs), which in turn alter their impacts on atmospheric chemistry and physics. 
+Unprecedented climatic changes have caused significant alterations to vegetation composition. These alterations are especially prevalent in the Arctic, with accelerated changes predicted in the future. Changes in vegetation composition significantly alter emissions of highly reactive biogenic volatile organic compounds (BVOCs), which in turn alter their impacts on atmospheric chemistry and physics. 
 Current ecosystem models, however, do not consider plant diversity and insect herbivory when estimating BVOC emissions, which are predicted to increase in future. 
 Therefore, the main aim of this project is to quantify the sources of within-species variation and insect herbivory determining the BVOC emissions from widespread mountain birch forests in Subarctic. These factors are  necessary to improve our ability to predict volatile emissions from high-latitude ecosystems.
 
@@ -23,21 +23,14 @@ Therefore, the main aim of this project is to quantify the sources of within-spe
 
 ### Collaborators
 
-- Center for Volatile Interactions (VOLT)
+
 ![Description of image](/assets/images/VOLT_logo_transparent_Full_logo_color.png) 
 
+![Norwegian Univeristy of Science and Technology Museum: Kristine Bakke Westergaard, Jamed D.M. Speed, Sarah Martin, Mike Martin](/assets/images/NTNU.png) 
 
-- Norwegian Univeristy of Science and Technology Museum: Kristine Bakke Westergaard, Jamed D.M. Speed, Sarah Martin, Mike Martin
-![Description of image](/assets/images/NTNU.png) 
-
-- Holomueomics group at NTNU Museum
 ![Description of image](/assets/images/holomuseomics_logo.png) 
- 
-- Norwegian institute for Nature Research
+
 ![Description of image](/assets/images/ninalog.jpeg) 
-
-
-
 
 ![Description of image](/assets/images/logo_bold_same_size-removebg-preview.png) 
 
