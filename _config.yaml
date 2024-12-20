@@ -28,7 +28,7 @@ author:
   links:
     - label: "University of Copenhagen"
       icon: "fas fa-fw fa-university"
-      url: "https://www1.bio.ku.dk/english/staff/?pure=en/persons/620322"
+      url: "https://researchprofiles.ku.dk/en/persons/jolanta-rieksta"
     - label: "jolanta.rieksta@bio.ku.dk"
       icon: "fas fa-fw fa-envelope-square"
       url: "jolanta.rieskta@bio.ku.dk"
@@ -38,5 +38,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jrieksta"
-
+    - label: "ORCID"
+      icon: "fa-brands fa-orcid"
+      url: "https://orcid.org/0000-0001-6396-8383"
 
