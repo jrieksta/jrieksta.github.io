@@ -55,7 +55,12 @@ The project is funded by VILLUM (VILLUM International postdoc grant
       <img src="/assets/images/holologo.png" alt="Holo Logo" style="width:200px; height:auto;">
     </td>
     <td style="padding-right: 20px;">
-      <img src="/assets/images/ninalog.jpeg
-
+      <img src="/assets/images/ninalog.jpeg" alt="NINA Logo" style="width:200px; height:auto;">
+    </td>
+    <td>
+      <img src="/assets/images/logo_bold_same_size-removebg-preview.png" alt="Bold Logo" style="width:200px; height:auto;">
+    </td>
+  </tr>
+</table>
 
 
