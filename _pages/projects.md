@@ -6,24 +6,35 @@ classes:
   - landing
   - dark-theme
 feature_row:
-  - image_path: /assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
+  - image_path: /assets/images/logo_bold_same_size-removebg-preview.png
+    alt: "indiVOCtual"
+    title: "indiVOCtual"
+    excerpt: "Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch."
+    url: "/projects/indiVOCtual"
+    btn_label: "Learn More"
     btn_class: "btn--inverse"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 4"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  
+  - image_path: /assets/images/IMG_20221003_113949.jpg
+    alt: "Herbivory stress VOCs"
+    title: "Herbivory stress VOCs"
+    excerpt: "This project focuses on the impact of herbivore-induced plant volatiles on plant defense mechanisms in subarctic environments."
+    url: "/projects/HIPV"
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-3.jpg
+    alt: "Climate Change and BVOCs"
+    title: "Climate Change and BVOCs"
+    excerpt: "Exploring how climate change affects biogenic volatile organic compounds (BVOCs) emissions in the Arctic and subarctic regions."
+    url: "/projects/Climate-and-BVOCs"
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"
+  - image_path: /assets/images/unsplash-gallery-image-3.jpg
+    alt: "Functional Traits Project"
+    title: "Functional Traits Project"
+    excerpt: "Investigating the functional traits of plants and how they influence ecosystem services in Arctic ecosystems."
+    url: "/projects/Functional-traits"
+    btn_label: "Learn More"
+    btn_class: "btn--inverse"
+
 #gallery:
  # - url: /assets/images/IMG_20190614_130910.jpg
  #   image_path: /assets/images/IMG_20190614_130910.jpg
