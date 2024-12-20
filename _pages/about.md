@@ -10,7 +10,7 @@ sidebar:
 ---
 <img src="/assets/received_1858781437542918.jpeg" alt="Banner description" style="width:100%; height:auto;">
 
-## SKILLS
+## 💼 SKILLS
 - Plant ecology, physiology, chemistry, insect herbivory
 - Volatile organic comopunds, constitutive and induced volatile organic compounds (VOC) emissions, VOC sampling and analysis
 - Main languages:  R; some expertise in UNIX, Python, MATLAB
