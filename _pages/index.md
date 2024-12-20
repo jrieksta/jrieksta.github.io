@@ -7,13 +7,13 @@ sidebar:
   sticky: true
 categories: blog
 header:
-  overlay_image: "/assets/assets/images/received_1858781437542918.jpeg" # Path to your full-width image
+  overlay_image: "/assets/assets/images/assets/received_1858781437542918.jpeg" # Path to your full-width image
   overlay_filter: rgba(0, 0, 0, 0.5) # Optional: Adds a dark overlay for better text contrast
   caption: "Jolanta Rieksta, PhD" # Optional: Text on top of the image
   caption_align: center # Optional: Center the caption text
-  actions: # Optional: Adds a button or call-to-action
-    - label: "Learn More"
-      url: "/about/"
+  #actions: # Optional: Adds a button or call-to-action
+   # - label: "Learn More"
+     # url: "/about/"
 ---
 
 
