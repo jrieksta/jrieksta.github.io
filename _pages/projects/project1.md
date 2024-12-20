@@ -8,7 +8,8 @@ classes:
 sidebar:
   nav: "docs"
 header:
-  image: /assets/images/2022-06-16 15.45.46.jpg
+  image: assets/images/Screenshot 2024-12-20 at 19.53.35.png
+  
 ---
 
 ## Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch
