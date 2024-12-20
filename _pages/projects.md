@@ -65,7 +65,7 @@ feature_row:
       <img src="/assets/images/IMG_20221003_113949.jpg" alt="Herbivory Stress VOCs" style="width: 100%; height: auto; border-radius: 8px;">
     </a>
     <h3 style="text-align: center;">Herbivory stress VOCs</h3>
-    <p style="text-align: center;">This project focuses on the impact of herbivore-induced plant volatiles on plant defense mechanisms in subarctic environments.</p>
+    <p style="text-align: center;">Quantify mountain birch forest volatile emissions under different herbivory pressures at the ecosystem scale in the Subarctic</p>
   </div>
 
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
@@ -73,7 +73,7 @@ feature_row:
       <img src="/assets/images/Cover_photo.jpg" alt="Climate Change and BVOCs" style="width: 100%; height: auto; border-radius: 8px;">
     </a>
     <h3 style="text-align: center;">Climate Change and BVOCs</h3>
-    <p style="text-align: center;">Exploring how climate change affects biogenic volatile organic compounds (BVOCs) emissions in the Arctic and subarctic regions.</p>
+    <p style="text-align: center;">Effects of insect herbivory and changing climate on biogenic volatile organic compound emissions in the Arctic</p>
   </div>
 
   <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
