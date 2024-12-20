@@ -16,20 +16,21 @@ header:
 
 ![Description of the image](/assets/images/indivoc_knowledgegap.png)
 
-
+<small>
 Unprecedented climatic changes have caused significant alterations to vegetation composition. These alterations are especially prevalent in the Arctic, with accelerated changes predicted in the future. Changes in vegetation composition significantly alter emissions of highly reactive biogenic volatile organic compounds (BVOCs), which in turn alter their impacts on atmospheric chemistry and physics.
 Current ecosystem models, however, do not consider plant diversity and insect herbivory when estimating BVOC emissions, which are predicted to increase in future.
 Therefore, the main aim of this project is to quantify the sources of within-species variation and insect herbivory determining the BVOC emissions from widespread mountain birch (*Betula pubescens*) forests in Subarctic. These factors are necessary to improve our ability to predict volatile emissions from high-latitude ecosystems.
-
+</small>
 
 
 ![Concept figure of IndiVOCtual - linking phenotypic and genetic diversity, insect herbivory, and modelling to asses within-species varfiation of moutain birch volatile emissions.](/assets/images/concept_logo.png) 
 
 ![Description of the image](/assets/images/villum_fonden_logo_hvid_RGB.png)
 
+<small>
 The project is funded by VILLUM (VILLUM International postdoc grant
 [Visit VILLUM International Postdoc](https://villumfonden.dk/en/group/grantsubarea/villum-international-postdoc)
-
+</small>
 ### Collaborators
 
 
