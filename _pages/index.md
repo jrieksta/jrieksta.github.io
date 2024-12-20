@@ -1,6 +1,6 @@
 ---
 layout: single # Use the "single" layout, which supports the author profile
-title: "Welcome to My Website"
+title: "Welcome "
 author_profile: true # Enable the author profile
 permalink: /
 sidebar:
