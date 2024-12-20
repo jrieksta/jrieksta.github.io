@@ -27,7 +27,7 @@ In the mountain birch we also measured VOCs at different scales using dynamic/pa
 Trunk VOC measurements at different heights from the ground
 <div style="display: flex; justify-content: space-between; gap: 10px;">
   <img src="/assets/images/trunk.jpeg" alt="Trunk Measurement 1" style="width: 48%;">
-  <img src="/assets/images/trunk2.png" alt="Trunk Measurement 2" style="width: 48%;">
+  <img src="/assets/images/trunk3.png" alt="Trunk Measurement 2" style="width: 48%;">
 </div>
 
 
