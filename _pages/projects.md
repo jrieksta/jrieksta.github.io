@@ -51,3 +51,53 @@ feature_row:
 ---
 
 
+---
+layout: single
+title: "Projects"
+permalink: /projects/
+classes:
+  - landing
+  - dark-theme
+sidebar:
+  nav: "docs"
+---
+
+# Projects
+
+This is the projects page.
+
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: space-between;">
+
+  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+    <a href="/projects/indiVOCtual">
+      <img src="/assets/images/logo_bold_same_size-removebg-preview.png" alt="indiVOCtual" style="width: 100%; height: auto; border-radius: 8px;">
+    </a>
+    <h3 style="text-align: center;">indiVOCtual</h3>
+    <p style="text-align: center;">Effects of within-species variation on biogenic volatile organic compound emissions from mountain birch</p>
+  </div>
+
+  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+    <a href="/projects/HIPV">
+      <img src="/assets/images/IMG_20221003_113949.jpg" alt="Herbivory Stress VOCs" style="width: 100%; height: auto; border-radius: 8px;">
+    </a>
+    <h3 style="text-align: center;">Herbivory stress VOCs</h3>
+    <p style="text-align: center;">This project focuses on the impact of herbivore-induced plant volatiles on plant defense mechanisms in subarctic environments.</p>
+  </div>
+
+  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+    <a href="/projects/Climate-and-BVOCs">
+      <img src="/assets/images/unsplash-gallery-image-3.jpg" alt="Climate Change and BVOCs" style="width: 100%; height: auto; border-radius: 8px;">
+    </a>
+    <h3 style="text-align: center;">Climate Change and BVOCs</h3>
+    <p style="text-align: center;">Exploring how climate change affects biogenic volatile organic compounds (BVOCs) emissions in the Arctic and subarctic regions.</p>
+  </div>
+
+  <div style="width: 45%; display: flex; flex-direction: column; align-items: center;">
+    <a href="/projects/Functional-traits">
+      <img src="/assets/images/unsplash-gallery-image-3.jpg" alt="Functional Traits Project" style="width: 100%; height: auto; border-radius: 8px;">
+    </a>
+    <h3 style="text-align: center;">Functional Traits Project</h3>
+    <p style="text-align: center;">Investigating the functional traits of plants and how they influence ecosystem services in Arctic ecosystems.</p>
+  </div>
+
+</div>
