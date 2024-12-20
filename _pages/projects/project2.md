@@ -33,10 +33,7 @@ Trunk VOC measurements at different heights from the ground
 
 
 Forest floor VOC measurements from different ground vegetation types:
-<div style="display: flex; justify-content: space-between; gap: 10px;">
-  <img src="/assets/images/chamber 1.jpeg" alt="Chamber 1" style="width: 48%;">
-  <img src="/assets/images/chamber2.jpeg" alt="Chamber 2" style="width: 48%;">
-</div>
+![alt text](<../../assets/images/chamber 1.jpeg>)
 
 VOC measurements from mountain birch leaves under varying insect herbivore lavels. Winter moth (*O. brumata*) and autumnal moth (*E. autumnata*) are locally dominant geometrid moths causing cyclic insect outbreaks approximately every 10 years in Northern Fennoscandia. 
 <div style="display: flex; justify-content: space-between; gap: 10px;">
@@ -51,4 +48,5 @@ High abundance of geometrid moths in 2022, a year before the outbreak in 2023:
   Your browser does not support the video tag.
 </video>
 
-This researh is funded by ![alt text](/assets/images/dff.png)
+                                                            This researh is funded by
+                                                        ![alt text](/assets/images/dff.png)
