@@ -20,23 +20,13 @@ Therefore, the main aim of this project is to quantify the sources of within-spe
 
 ![Concept figure of IndiVOCtual - linking phenotypic and genetic diversity, insect herbivory, and modelling to asses within-species varfiation of moutain birch volatile emissions.](/assets/images/concept_logo.png) 
 
-![Description of image](/assets/images/villum_fonden_logo_hvid_RGB.png) The project is funded by VILLUM (VILLUM International postdoc grant) https://villumfonden.dk/en/group/grantsubarea/villum-international-postdoc
-
+![The project is funded by VILLUM (VILLUM International postdoc grant](/assets/images/villum_fonden_logo_hvid_RGB.png)
+[Visit VILLUM International Postdoc](https://villumfonden.dk/en/group/grantsubarea/villum-international-postdoc)
 
 ### Collaborators
 
 
-![Description of image](/assets/images/VOLT_logo_transparent_Full_logo_color.png) 
-
-![Norwegian Univeristy of Science and Technology Museum: Kristine Bakke Westergaard, Jamed D.M. Speed, Sarah Martin, Mike Martin](/assets/images/Screenshot 2024-12-20 at 12.16.31.png) 
-
-![Description of image](/assets/images/holologo.png) 
-
-![Description of image](/assets/images/ninalog.jpeg) 
-
-![Description of image](/assets/images/logo_bold_same_size-removebg-preview.png) 
-
-<img src="/assets/images/VOLT_logo_transparent_Full_logo_color.png" alt="VOLT Logo" style="width:150px; height:auto;">
+<img src="/assets/images/VOLT_logo_white_Full_logo_color.png" alt="VOLT Logo" style="width:150px; height:auto;">
 
 <img src="/assets/images/Screenshot%202024-12-20%20at%2012.16.31.png" alt="NTNU Museum" style="width:150px; height:auto;">
 
