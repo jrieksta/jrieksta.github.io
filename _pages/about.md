@@ -9,6 +9,7 @@ classes:
 sidebar:
   nav: "docs"
 ---
+<small>
 ## SKILLS
 - Plant ecology, physiology, chemistry, insect herbivory
 - Volatile organic compounds, constitutive and induced volatile organic compounds (VOC) emissions, VOC sampling and analysis
@@ -84,3 +85,4 @@ sidebar:
 - **Technoport**: Organization to advance science-based, technological innovation & entrepreneurship (Norway)  
 - **Students' Council of the University of Latvia** (Latvia)  
 - **Students' Council of the University of Latvia, Faculty of Biology** (Latvia)  
+</small>
