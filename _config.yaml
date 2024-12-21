@@ -4,7 +4,7 @@ include: ["_pages"]
 plugins:
   - jekyll-include-cache
 subtitle: "Jolanta Rieksta, PhD"
-logo: "/assets/images/logo.png"
+logo: "/assets/images/Screenshot 2024-12-21 at 09.25.54.png"
 name: "Jolanta Rieksta"
 description: "A flexible Jekyll theme for your blog or site with a minimalist aesthetic."
 
