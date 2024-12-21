@@ -17,7 +17,7 @@ feature_row:
     title: "Herbivory stress VOCs"
     excerpt: "This project focuses on the impact of herbivore-induced plant volatiles on plant defense mechanisms in subarctic environments."
     url: "/projects/HIPV"
-  - image_path: /assets/images/unsplash-gallery-image-3.jpg
+  - image_path: /assets/images/Cover_photo.jpg
     alt: "Climate Change and BVOCs"
     title: "Climate Change and BVOCs"
     excerpt: "Exploring how climate change affects biogenic volatile organic compounds (BVOCs) emissions in the Arctic and subarctic regions."
