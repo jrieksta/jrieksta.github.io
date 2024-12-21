@@ -25,15 +25,11 @@ The results  showed that insect herbivory above background levels substantially 
 
 #### References:
 <small>
-**I** Rieksta J, Li T, Junker RR, Jepsen JU, Ryde I, Rinnan R. Insect herbivory strongly modifies mountain birch volatile emissions. Frontiers in Plant Science. 2020 Oct 27;11:558979.  https://doi.org/10.3389/fpls.2020.558979
-<br>
-**II** Rieksta J, Li T, Michelsen A, Rinnan R. Synergistic effects of insect herbivory and changing climate on plant volatile emissions in the subarctic tundra. Global Change Biology. 2021 Oct;27(20):5030-42.https://doi.org/10.1111/gcb.15773
-<br>
-**III** Rieksta J, Li T, Davie‐Martin CL, Simin T, Brogaard Aeppli LC, Høye TT, Rasmussen MA, Rinnan R. Seasonal and elevational variability in dwarf birch VOC emissions in Greenlandic tundra. Journal of Geophysical Research: Biogeosciences. 2023 Nov;128(11):e2023JG007475. https://doi.org/10.1029/2023JG007475
-<br>
-**IV** Rieksta J, Li T, Davie‐Martin CL, Aeppli LC, Høye TT, Rinnan R. Volatile responses of dwarf birch to mimicked insect herbivory and experimental warming at two elevations in Greenlandic tundra. Plant‐Environment Interactions. 2023 Feb;4(1):23-35.  https://doi.org/10.1002/pei3.10100
-<br>
-**V** Ryde I, Li T, Rieksta J, Dos Santos BM, Neilson EH, Gericke O, Jepsen JU, Bork LR, Holm HS, Rinnan R. Seasonal and elevational variability in the induction of specialized compounds from mountain birch (Betula pubescens var. pumila) by winter moth larvae (Operophtera brumata). Tree Physiology. 2021 Jun;41(6):1019-33. https://doi.org/10.1093/treephys/tpab023
+ Rieksta J, Li T, Junker RR, Jepsen JU, Ryde I, Rinnan R. Insect herbivory strongly modifies mountain birch volatile emissions. Frontiers in Plant Science. 2020 Oct 27;11:558979. [https://doi.org/10.3389/fpls.2020.558979](https://doi.org/10.3389/fpls.2020.558979)<br><br>
+ Rieksta J, Li T, Michelsen A, Rinnan R. Synergistic effects of insect herbivory and changing climate on plant volatile emissions in the subarctic tundra. Global Change Biology. 2021 Oct;27(20):5030-42. [https://doi.org/10.1111/gcb.15773](https://doi.org/10.1111/gcb.15773)<br><br>
+ Rieksta J, Li T, Davie‐Martin CL, Simin T, Brogaard Aeppli LC, Høye TT, Rasmussen MA, Rinnan R. Seasonal and elevational variability in dwarf birch VOC emissions in Greenlandic tundra. Journal of Geophysical Research: Biogeosciences. 2023 Nov;128(11):e2023JG007475. [https://doi.org/10.1029/2023JG007475](https://doi.org/10.1029/2023JG007475)<br><br>
+ Rieksta J, Li T, Davie‐Martin CL, Aeppli LC, Høye TT, Rinnan R. Volatile responses of dwarf birch to mimicked insect herbivory and experimental warming at two elevations in Greenlandic tundra. Plant‐Environment Interactions. 2023 Feb;4(1):23-35. [https://doi.org/10.1002/pei3.10100](https://doi.org/10.1002/pei3.10100)<br><br>
+ Ryde I, Li T, Rieksta J, Dos Santos BM, Neilson EH, Gericke O, Jepsen JU, Bork LR, Holm HS, Rinnan R. Seasonal and elevational variability in the induction of specialized compounds from mountain birch (Betula pubescens var. pumila) by winter moth larvae (Operophtera brumata). Tree Physiology. 2021 Jun;41(6):1019-33. [https://doi.org/10.1093/treephys/tpab023](https://doi.org/10.1093/treephys/tpab023)
 </small>
 
 
