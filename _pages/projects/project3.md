@@ -8,7 +8,7 @@ classes:
 sidebar:
   nav: "docs"
 header:
-  image: /assets/images/Cover_photo.jpg
+  image: /assets/images/Cover_photo1.jpg
 ---
 
 ### PhD thesis -  Effects of insect herbivory and changing climate on biogenic volatile organic compound emissions in the Arctic
