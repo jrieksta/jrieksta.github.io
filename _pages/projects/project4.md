@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Functional traits"
+title: ""
 permalink: /projects/Functional-traits
 classes:
   - landing
