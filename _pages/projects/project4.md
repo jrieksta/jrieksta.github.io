@@ -18,10 +18,11 @@ Functional traits are extensively used investigating ecosystem functioning and a
 We collected functional traits along large elevational gradients in Rocky Mountains, southwestern Colorado. We used microsatellite analysis to determine genotype and cytotype, and investigated functional traits differed between genotypes and cytotypes.
 
 ![High elevation site.](/assets/images/Avery.jpg) 
-
+High elevation site ca 3300 m a.s.l
 
 ![Photosynthesis measurements.](/assets/images/ps4.jpg)
+Photosynthesis measurements in the field.
 
 ![Reflectance spectra measurements.](/assets/images/spectra.png)
-
+Reflectance spectra measurements of aspen leaves in the lab.
 
