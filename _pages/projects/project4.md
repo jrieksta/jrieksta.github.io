@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Functional traits across quaking aspen (*Populus tremuloides*) genotypes"
+title: "Functional traits"
 permalink: /projects/Functional-traits
 classes:
   - landing
@@ -11,6 +11,7 @@ header:
   image: /assets/images/RMBL.jpg
 ---
 
+### Functional traits across quaking aspen (*Populus tremuloides*) genotypes
 
 Functional traits are extensively used investigating ecosystem functioning and are a part of many existing ecological theories for tradeoffs. In order to apply and utilize tradeoffs in intraspecific plant functional trait variability in predictive ecology, we need to correctly assess the drivers of variation within species. 
 
