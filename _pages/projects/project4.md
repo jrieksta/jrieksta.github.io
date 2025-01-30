@@ -20,8 +20,8 @@ We collected functional traits along large elevational gradients in Rocky Mounta
 ![High elevation site.](/assets/images/Avery.jpg) 
 
 
-![Photosynthesis measurements.](/assets/images/)ps4.jpg)
+![Photosynthesis measurements.](/assets/images/ps4.jpg)
 
-![Reflectance spectra measurements.](/assets/images/)spectra.png)
+![Reflectance spectra measurements.](/assets/images/spectra.png)
 
 
