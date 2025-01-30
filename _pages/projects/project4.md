@@ -8,7 +8,7 @@ classes:
 sidebar:
   nav: "docs"
 header:
-  image: /assets/images/aspen_high.png
+  image: /assets/images/RMBL.jpg
 ---
 
 # Functional traits across quaking aspen (*Populus tremuloides*) genotypes
